@@ -5,7 +5,6 @@ import Pin from "../pin/Pin";
 
 export default function Map({ items }) {
   // const position = [51.505, -0.09];
-  console.log(items);
   return (
     <MapContainer
       center={[52.4797, -1.90269]}
