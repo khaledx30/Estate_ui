@@ -12,9 +12,9 @@ export default function NavBar() {
           <span> Real Estate</span>
         </a>
         <a href="/">Home</a>
-        {/* <Link to="/list">List</Link> */}
+        <Link to="/list">List</Link>
         <a href="/">About</a>
-        <a href="/list">list</a>
+        {/* <a href="/list">list</a> */}
         <a href="/">Agents</a>
         <a href="/">Contact</a>
       </div>
